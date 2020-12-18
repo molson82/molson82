@@ -15,5 +15,3 @@ If you wish, you can check out my full Dev Blog at https://dev.to/molson82. Or, 
 > My name is Molson and I am a full-time full-stack software engineer. I have taken it upon myself to start a Dev Blog where I will share my updates on my current projects, ideas I have, cool products or tools I find that I think will be helpful for others, and any other things that pop into my head.
 > 
 > I want this blog to be a place for me to grow both as a writer and a developer, and learn from others so that I can improve how I code. Or occasionally post images of my dog Nova 😄.
-
------
